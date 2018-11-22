@@ -1,5 +1,8 @@
 # Microservice-Resilliency
 
+### Short Note
+
+
 ### Resources
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/implement-resilient-applications/implement-circuit-breaker-pattern
 * https://blog.risingstack.com/designing-microservices-architecture-for-failure/
