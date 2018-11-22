@@ -18,3 +18,8 @@
 
   #### HttpClientFactory
   * https://www.stevejgordon.co.uk/introduction-to-httpclientfactory-aspnetcore
+  
+ 
+ 
+ ### Circuit Breaker
+ * https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
