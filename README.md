@@ -23,3 +23,7 @@
  
  ### Circuit Breaker
  * https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
+ 
+ 
+ ## ALL IN ONE - Concepts
+  * https://www.youtube.com/watch?v=ARIsfkhoRts
